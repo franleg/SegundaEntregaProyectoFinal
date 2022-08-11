@@ -1,0 +1,42 @@
+[
+	{
+		"name": "Pioneer XDJ 1000 mk2",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "500.000",
+		"thumbnail": "compacteras.1000.jpg",
+		"stock": 15,
+		"timestamp": "02/08/2022 09:34:12",
+		"code": "3edf34we3s",
+		"id": 1
+	},
+	{
+		"name": "Sennheiser HD-25",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "200.000",
+		"thumbnail": "auris.sennheiser.jpg",
+		"stock": 17,
+		"timestamp": "03/08/2022 15:26:58",
+		"code": "4gks87ai8e",
+		"id": 2
+	},
+	{
+		"name": "JBL 305MK2",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "100.000",
+		"thumbnail": "monitores.jbl.jpg",
+		"stock": 12,
+		"timestamp": "03/08/2022 15:26:58",
+		"code": "9fuw17nb6z",
+		"id": 3
+	},
+	{
+		"name": "Pioneer djm 450 mk2",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "800.000",
+		"thumbnail": "D:\\CURSO BACKEND\\PrimeraEntregaProyectoFinal\\src\\public\\img\\1659712137538-mixer.450.jpg",
+		"stock": 9,
+		"timestamp": "05/08/2022 12:08:58",
+		"code": "0fk7bn4yok",
+		"id": 4
+	}
+]
