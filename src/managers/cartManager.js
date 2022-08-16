@@ -116,7 +116,7 @@ class CartManager {
             const cartsFile = await this.getAllCarts();
             let cart = cartsFile.find(cart => cart.id === idCart);
             let product = cart.products.find(prod => prod.productId === idProd);
-            let productIndex = cart.products.indexOf(productToRemove);
+            let productIndex = cart.products.indexOf(product);
             cart.products.splice(productIndex, 1);
             await fs.promises.writeFile(this.path, JSON.stringify(cartsFile, null, '\t'));
             return product;
