@@ -1,13 +1,30 @@
 [
 	{
+		"id": 1,
+		"timestamp": "08/08/2022 05:08:24",
+		"products": []
+	},
+	{
 		"id": 2,
 		"timestamp": "08/08/2022 05:10:12",
-		"products": []
+		"products": [
+			{
+				"productId": 3,
+				"quantity": 3,
+				"timestamp": "31/08/2022 10:53:03"
+			}
+		]
 	},
 	{
 		"id": 3,
 		"timestamp": "08/08/2022 05:12:18",
-		"products": []
+		"products": [
+			{
+				"productId": 4,
+				"quantity": 5,
+				"timestamp": "31/08/2022 12:05:21"
+			}
+		]
 	},
 	{
 		"id": 4,
@@ -20,14 +37,9 @@
 			},
 			{
 				"productId": 4,
-				"quantity": 1,
-				"timestamp": "10/08/2022 09:29:59"
+				"quantity": 2,
+				"timestamp": "31/08/2022 01:49:55"
 			}
 		]
-	},
-	{
-		"id": 5,
-		"timestamp": "10/08/2022 12:22:28",
-		"products": []
 	}
 ]

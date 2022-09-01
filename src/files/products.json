@@ -10,16 +10,6 @@
 		"id": 1
 	},
 	{
-		"name": "Sennheiser HD-25",
-		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-		"price": "200.000",
-		"thumbnail": "auris.sennheiser.jpg",
-		"stock": 17,
-		"timestamp": "03/08/2022 15:26:58",
-		"code": "4gks87ai8e",
-		"id": 2
-	},
-	{
 		"name": "JBL 305MK2",
 		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
 		"price": "100.000",
@@ -27,16 +17,36 @@
 		"stock": 12,
 		"timestamp": "03/08/2022 15:26:58",
 		"code": "9fuw17nb6z",
-		"id": 3
+		"id": 2
 	},
 	{
 		"name": "Pioneer djm 450 mk2",
 		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
 		"price": "800.000",
 		"thumbnail": "D:\\CURSO BACKEND\\PrimeraEntregaProyectoFinal\\src\\public\\img\\1659712137538-mixer.450.jpg",
-		"stock": 9,
+		"stock": 7,
 		"timestamp": "05/08/2022 12:08:58",
 		"code": "0fk7bn4yok",
+		"id": 3
+	},
+	{
+		"name": "Technics",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"stock": 5,
+		"price": "80000",
+		"thumbnail": "C:\\Users\\Dell\\Desktop\\CURSO BACKEND\\SegundaEntregaProyectoFinal\\src\\public\\img\\1661719890431-auris.technics.jpg",
+		"timestamp": "28/08/2022 05:51:30",
+		"code": "nnrcaenvi8",
 		"id": 4
+	},
+	{
+		"name": "mixer",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"stock": "6",
+		"price": "120000",
+		"thumbnail": "C:\\Users\\Dell\\Desktop\\CURSO BACKEND\\SegundaEntregaProyectoFinal\\src\\public\\img\\1662036241057-auris.aiaiai.jpg",
+		"timestamp": "01/09/2022 09:44:01",
+		"code": "7wrexbd168x",
+		"id": 5
 	}
 ]
